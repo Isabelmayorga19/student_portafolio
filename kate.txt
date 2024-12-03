@@ -1,1 +1,0 @@
-creacion de un documento en modo remoto desde otra consola 
